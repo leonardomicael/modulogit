@@ -1,0 +1,23 @@
+[33m069f219[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/otrabranch[m[33m, [m[1;32motrabranch[m[33m)[m HEAD@{0}: reset: moving to 069f219
+[33m069f219[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/otrabranch[m[33m, [m[1;32motrabranch[m[33m)[m HEAD@{1}: reset: moving to 069f219
+[33m72201bc[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{2}: commit: testando a chave
+[33m53742d0[m HEAD@{3}: commit: novissimocommit
+[33mba8aab2[m HEAD@{4}: commit: novocommit
+[33m069f219[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/otrabranch[m[33m, [m[1;32motrabranch[m[33m)[m HEAD@{5}: reset: moving to 069f219
+[33m5543fdb[m HEAD@{6}: reset: moving to HEAD
+[33m5543fdb[m HEAD@{7}: checkout: moving from main to master
+[33m17488fb[m[33m ([m[1;32mmain[m[33m)[m HEAD@{8}: Branch: renamed refs/heads/teste to refs/heads/main
+[33m17488fb[m[33m ([m[1;32mmain[m[33m)[m HEAD@{10}: checkout: moving from master to teste
+[33m5543fdb[m HEAD@{11}: checkout: moving from teste to master
+[33m17488fb[m[33m ([m[1;32mmain[m[33m)[m HEAD@{12}: commit: mudei readme
+[33m31bc551[m HEAD@{13}: checkout: moving from master to teste
+[33m5543fdb[m HEAD@{14}: checkout: moving from teste to master
+[33m31bc551[m HEAD@{15}: commit: mais um
+[33m3c68f1b[m HEAD@{16}: commit: criei o styl3.css
+[33m069f219[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/otrabranch[m[33m, [m[1;32motrabranch[m[33m)[m HEAD@{17}: commit: novissimo
+[33mf6cc79f[m HEAD@{18}: commit: testando outro branch
+[33m5543fdb[m HEAD@{19}: checkout: moving from master to teste
+[33m5543fdb[m HEAD@{20}: reset: moving to 5543fdb4396c6f595fda320fd00e4f376617446d
+[33m40465d1[m HEAD@{21}: commit: novissimo commit
+[33m0db07c5[m HEAD@{22}: commit: criando os arquivos principais e modificando README
+[33m5543fdb[m HEAD@{23}: commit (initial): primeiro commit
